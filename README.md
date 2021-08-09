@@ -7,3 +7,7 @@ Tech used -->
 -> HTML
 -> CSS
 -> React.js
+
+Link to the project -->
+
+https://covid19-tracker01.netlify.app/
